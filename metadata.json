@@ -1,0 +1,7 @@
+{
+  "name": "Vitali - Seu Guia de Emagrecimento",
+  "description": "Um aplicativo completo de saúde e bem-estar para monitorar consumo de água, peso, nutrição e exercícios, com auxílio de IA para receitas e dicas personalizadas.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
